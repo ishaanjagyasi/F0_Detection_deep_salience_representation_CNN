@@ -1,0 +1,317 @@
+{
+  "aggregated_metrics": {
+    "Voicing Recall": {
+      "mean": 0.8868558046281952,
+      "std": 0.08333466948928951,
+      "min": 0.5893719806763285,
+      "max": 0.9958762886597938
+    },
+    "Voicing False Alarm": {
+      "mean": 0.17032231614704585,
+      "std": 0.10080751098354043,
+      "min": 0.010554089709762533,
+      "max": 0.4263157894736842
+    },
+    "Raw Pitch Accuracy": {
+      "mean": 0.8434600376199527,
+      "std": 0.09140045224609149,
+      "min": 0.5429951690821256,
+      "max": 0.9835423197492164
+    },
+    "Raw Chroma Accuracy": {
+      "mean": 0.8446439262725641,
+      "std": 0.09056786189474307,
+      "min": 0.5429951690821256,
+      "max": 0.9835423197492164
+    },
+    "Overall Accuracy": {
+      "mean": 0.8420127783454152,
+      "std": 0.06613447451940327,
+      "min": 0.7062579821200511,
+      "max": 0.9664268585131894
+    }
+  },
+  "per_track_scores": {
+    "vocadito_1": {
+      "Voicing Recall": 0.9308831596269885,
+      "Voicing False Alarm": 0.08293153326904533,
+      "Raw Pitch Accuracy": 0.8985189248491497,
+      "Raw Chroma Accuracy": 0.8985189248491497,
+      "Overall Accuracy": 0.9052447552447552
+    },
+    "vocadito_10": {
+      "Voicing Recall": 0.8161888701517707,
+      "Voicing False Alarm": 0.4263157894736842,
+      "Raw Pitch Accuracy": 0.7487352445193929,
+      "Raw Chroma Accuracy": 0.7487352445193929,
+      "Overall Accuracy": 0.7062579821200511
+    },
+    "vocadito_11": {
+      "Voicing Recall": 0.8952941176470588,
+      "Voicing False Alarm": 0.11940298507462686,
+      "Raw Pitch Accuracy": 0.8670588235294118,
+      "Raw Chroma Accuracy": 0.8670588235294118,
+      "Overall Accuracy": 0.870304114490161
+    },
+    "vocadito_12": {
+      "Voicing Recall": 0.9958762886597938,
+      "Voicing False Alarm": 0.19701492537313434,
+      "Raw Pitch Accuracy": 0.9804123711340206,
+      "Raw Chroma Accuracy": 0.9804123711340206,
+      "Overall Accuracy": 0.9348659003831418
+    },
+    "vocadito_13": {
+      "Voicing Recall": 0.9035573122529644,
+      "Voicing False Alarm": 0.2015151515151515,
+      "Raw Pitch Accuracy": 0.8316205533596838,
+      "Raw Chroma Accuracy": 0.8316205533596838,
+      "Overall Accuracy": 0.8202597402597402
+    },
+    "vocadito_14": {
+      "Voicing Recall": 0.759493670886076,
+      "Voicing False Alarm": 0.15339233038348082,
+      "Raw Pitch Accuracy": 0.7271448663853727,
+      "Raw Chroma Accuracy": 0.7271448663853727,
+      "Overall Accuracy": 0.7657142857142857
+    },
+    "vocadito_15": {
+      "Voicing Recall": 0.8153580672993961,
+      "Voicing False Alarm": 0.056218057921635436,
+      "Raw Pitch Accuracy": 0.7627264883520276,
+      "Raw Chroma Accuracy": 0.7653149266609146,
+      "Overall Accuracy": 0.8235967926689576
+    },
+    "vocadito_16": {
+      "Voicing Recall": 0.823906083244397,
+      "Voicing False Alarm": 0.08348457350272233,
+      "Raw Pitch Accuracy": 0.7844183564567769,
+      "Raw Chroma Accuracy": 0.7844183564567769,
+      "Overall Accuracy": 0.8333333333333334
+    },
+    "vocadito_17": {
+      "Voicing Recall": 0.803030303030303,
+      "Voicing False Alarm": 0.010554089709762533,
+      "Raw Pitch Accuracy": 0.786060606060606,
+      "Raw Chroma Accuracy": 0.786060606060606,
+      "Overall Accuracy": 0.8240512567767373
+    },
+    "vocadito_18": {
+      "Voicing Recall": 0.9179304192685103,
+      "Voicing False Alarm": 0.1282420749279539,
+      "Raw Pitch Accuracy": 0.8572702943800179,
+      "Raw Chroma Accuracy": 0.8581623550401427,
+      "Overall Accuracy": 0.8652849740932642
+    },
+    "vocadito_19": {
+      "Voicing Recall": 0.9898568019093079,
+      "Voicing False Alarm": 0.22526315789473683,
+      "Raw Pitch Accuracy": 0.9409307875894988,
+      "Raw Chroma Accuracy": 0.9409307875894988,
+      "Overall Accuracy": 0.8808073115003808
+    },
+    "vocadito_2": {
+      "Voicing Recall": 0.9794400699912511,
+      "Voicing False Alarm": 0.030831099195710455,
+      "Raw Pitch Accuracy": 0.9588801399825022,
+      "Raw Chroma Accuracy": 0.9588801399825022,
+      "Overall Accuracy": 0.9614116094986808
+    },
+    "vocadito_20": {
+      "Voicing Recall": 0.8008474576271186,
+      "Voicing False Alarm": 0.17266187050359713,
+      "Raw Pitch Accuracy": 0.7415254237288136,
+      "Raw Chroma Accuracy": 0.7415254237288136,
+      "Overall Accuracy": 0.7733333333333333
+    },
+    "vocadito_21": {
+      "Voicing Recall": 0.8816408876933423,
+      "Voicing False Alarm": 0.3046683046683047,
+      "Raw Pitch Accuracy": 0.827841291190316,
+      "Raw Chroma Accuracy": 0.8298587760591796,
+      "Overall Accuracy": 0.7993664202745512
+    },
+    "vocadito_22": {
+      "Voicing Recall": 0.9332591768631813,
+      "Voicing False Alarm": 0.0838235294117647,
+      "Raw Pitch Accuracy": 0.9087875417130145,
+      "Raw Chroma Accuracy": 0.9087875417130145,
+      "Overall Accuracy": 0.9119696010132996
+    },
+    "vocadito_23": {
+      "Voicing Recall": 0.9206510681586979,
+      "Voicing False Alarm": 0.17543859649122806,
+      "Raw Pitch Accuracy": 0.8565615462868769,
+      "Raw Chroma Accuracy": 0.8565615462868769,
+      "Overall Accuracy": 0.8448164842240824
+    },
+    "vocadito_24": {
+      "Voicing Recall": 0.8207317073170731,
+      "Voicing False Alarm": 0.22394678492239467,
+      "Raw Pitch Accuracy": 0.7987804878048781,
+      "Raw Chroma Accuracy": 0.7987804878048781,
+      "Overall Accuracy": 0.7907159716758458
+    },
+    "vocadito_25": {
+      "Voicing Recall": 0.8138173302107728,
+      "Voicing False Alarm": 0.15196078431372548,
+      "Raw Pitch Accuracy": 0.788056206088993,
+      "Raw Chroma Accuracy": 0.788056206088993,
+      "Overall Accuracy": 0.8074484944532488
+    },
+    "vocadito_26": {
+      "Voicing Recall": 0.9318801089918256,
+      "Voicing False Alarm": 0.3753351206434316,
+      "Raw Pitch Accuracy": 0.8133514986376021,
+      "Raw Chroma Accuracy": 0.8133514986376021,
+      "Overall Accuracy": 0.7497741644083108
+    },
+    "vocadito_27": {
+      "Voicing Recall": 0.8455172413793104,
+      "Voicing False Alarm": 0.17634854771784234,
+      "Raw Pitch Accuracy": 0.8110344827586207,
+      "Raw Chroma Accuracy": 0.8110344827586207,
+      "Overall Accuracy": 0.816072908036454
+    },
+    "vocadito_28": {
+      "Voicing Recall": 0.916776750330251,
+      "Voicing False Alarm": 0.3002832861189802,
+      "Raw Pitch Accuracy": 0.8322324966974901,
+      "Raw Chroma Accuracy": 0.8322324966974901,
+      "Overall Accuracy": 0.7900900900900901
+    },
+    "vocadito_29": {
+      "Voicing Recall": 0.7876787678767877,
+      "Voicing False Alarm": 0.1742627345844504,
+      "Raw Pitch Accuracy": 0.7755775577557755,
+      "Raw Chroma Accuracy": 0.7755775577557755,
+      "Overall Accuracy": 0.7901716068642746
+    },
+    "vocadito_3": {
+      "Voicing Recall": 0.9029038112522686,
+      "Voicing False Alarm": 0.07012987012987013,
+      "Raw Pitch Accuracy": 0.8620689655172413,
+      "Raw Chroma Accuracy": 0.8620689655172413,
+      "Overall Accuracy": 0.8899572649572649
+    },
+    "vocadito_30": {
+      "Voicing Recall": 0.8187808896210873,
+      "Voicing False Alarm": 0.1556420233463035,
+      "Raw Pitch Accuracy": 0.7314662273476112,
+      "Raw Chroma Accuracy": 0.742998352553542,
+      "Overall Accuracy": 0.7832292595896521
+    },
+    "vocadito_31": {
+      "Voicing Recall": 0.7888730385164051,
+      "Voicing False Alarm": 0.1301775147928994,
+      "Raw Pitch Accuracy": 0.7375178316690443,
+      "Raw Chroma Accuracy": 0.7375178316690443,
+      "Overall Accuracy": 0.793046357615894
+    },
+    "vocadito_32": {
+      "Voicing Recall": 0.9932279909706546,
+      "Voicing False Alarm": 0.19226118500604594,
+      "Raw Pitch Accuracy": 0.9774266365688488,
+      "Raw Chroma Accuracy": 0.9774266365688488,
+      "Overall Accuracy": 0.9123376623376623
+    },
+    "vocadito_34": {
+      "Voicing Recall": 0.8548695098663271,
+      "Voicing False Alarm": 0.34973637961335674,
+      "Raw Pitch Accuracy": 0.7441120305537874,
+      "Raw Chroma Accuracy": 0.766390833863781,
+      "Overall Accuracy": 0.7191588785046729
+    },
+    "vocadito_35": {
+      "Voicing Recall": 0.9047044632086851,
+      "Voicing False Alarm": 0.19498607242339833,
+      "Raw Pitch Accuracy": 0.8721351025331725,
+      "Raw Chroma Accuracy": 0.8721351025331725,
+      "Overall Accuracy": 0.8518518518518519
+    },
+    "vocadito_36": {
+      "Voicing Recall": 0.957088122605364,
+      "Voicing False Alarm": 0.2989985693848355,
+      "Raw Pitch Accuracy": 0.9310344827586207,
+      "Raw Chroma Accuracy": 0.9310344827586207,
+      "Overall Accuracy": 0.8507984031936128
+    },
+    "vocadito_37": {
+      "Voicing Recall": 0.9917711598746082,
+      "Voicing False Alarm": 0.08928571428571429,
+      "Raw Pitch Accuracy": 0.9835423197492164,
+      "Raw Chroma Accuracy": 0.9835423197492164,
+      "Overall Accuracy": 0.9664268585131894
+    },
+    "vocadito_38": {
+      "Voicing Recall": 0.9894394800974817,
+      "Voicing False Alarm": 0.13979416809605488,
+      "Raw Pitch Accuracy": 0.9618196588139724,
+      "Raw Chroma Accuracy": 0.9618196588139724,
+      "Overall Accuracy": 0.9123904881101377
+    },
+    "vocadito_39": {
+      "Voicing Recall": 0.9823321554770318,
+      "Voicing False Alarm": 0.1499330655957162,
+      "Raw Pitch Accuracy": 0.9752650176678446,
+      "Raw Chroma Accuracy": 0.9752650176678446,
+      "Overall Accuracy": 0.9409824046920822
+    },
+    "vocadito_4": {
+      "Voicing Recall": 0.9294975688816856,
+      "Voicing False Alarm": 0.323943661971831,
+      "Raw Pitch Accuracy": 0.8427876823338736,
+      "Raw Chroma Accuracy": 0.8427876823338736,
+      "Overall Accuracy": 0.8055380742605412
+    },
+    "vocadito_40": {
+      "Voicing Recall": 0.9431372549019608,
+      "Voicing False Alarm": 0.13793103448275862,
+      "Raw Pitch Accuracy": 0.9107843137254902,
+      "Raw Chroma Accuracy": 0.9176470588235294,
+      "Overall Accuracy": 0.893125
+    },
+    "vocadito_5": {
+      "Voicing Recall": 0.9599447513812155,
+      "Voicing False Alarm": 0.30560578661844484,
+      "Raw Pitch Accuracy": 0.9371546961325967,
+      "Raw Chroma Accuracy": 0.9371546961325967,
+      "Overall Accuracy": 0.8700649675162418
+    },
+    "vocadito_6": {
+      "Voicing Recall": 0.9266903914590747,
+      "Voicing False Alarm": 0.0695517774343122,
+      "Raw Pitch Accuracy": 0.8690391459074733,
+      "Raw Chroma Accuracy": 0.8690391459074733,
+      "Overall Accuracy": 0.8884015594541911
+    },
+    "vocadito_7": {
+      "Voicing Recall": 0.9097291875626881,
+      "Voicing False Alarm": 0.08247422680412371,
+      "Raw Pitch Accuracy": 0.8866599799398195,
+      "Raw Chroma Accuracy": 0.8866599799398195,
+      "Overall Accuracy": 0.899164677804296
+    },
+    "vocadito_8": {
+      "Voicing Recall": 0.8613989637305699,
+      "Voicing False Alarm": 0.06762589928057554,
+      "Raw Pitch Accuracy": 0.8316062176165803,
+      "Raw Chroma Accuracy": 0.8316062176165803,
+      "Overall Accuracy": 0.8793456032719836
+    },
+    "vocadito_9": {
+      "Voicing Recall": 0.5893719806763285,
+      "Voicing False Alarm": 0.030598052851182198,
+      "Raw Pitch Accuracy": 0.5429951690821256,
+      "Raw Chroma Accuracy": 0.5429951690821256,
+      "Overall Accuracy": 0.7177879133409351
+    }
+  },
+  "config": {
+    "salience_threshold": 0.1,
+    "min_f0": 80.0,
+    "max_f0": 1000.0,
+    "median_filter_size": 5,
+    "gaussian_sigma": 1.0,
+    "min_voiced_duration": 0.1
+  }
+}
