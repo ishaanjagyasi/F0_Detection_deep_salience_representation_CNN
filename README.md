@@ -204,10 +204,4 @@ Results are saved to `evaluation_results/evaluation_results.json` with both aggr
 
 If you use this code, please cite the original paper on deep salience representation for F0 estimation.
 
-## License
 
-This project is provided as-is for educational and research purposes.
-
-## Contact
-
-For questions or issues, please open an issue on the GitHub repository.
